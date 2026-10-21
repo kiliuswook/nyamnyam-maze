@@ -46536,11 +46536,11 @@ default:if(A.bs(a,"stamp_"+b,c,d,0,B.i))return}A.bs(a,"stamp",c,d,0,B.i)},
 NN(a,b,c,d){var s,r,q,p,o,n,m
 switch(b){case"worm":s=this.bh
 s===$&&A.c()
-s.nv(a,c.i(0,new A.a(0,d*0.08)),d/300)
+s.nv(a,c.i(0,new A.a(0,d*0.06)),d/190)
 return
 case"push":s=this.bh
 s===$&&A.c()
-s.nc(a,c.i(0,new A.a(0,d*0.05)),d/300)
+s.nc(a,c.i(0,new A.a(0,d*0.04)),d/190)
 return
 case"bonus":s=$.VI()
 if(s.b!=null){r=d*0.9
