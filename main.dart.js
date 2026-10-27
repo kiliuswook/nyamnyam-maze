@@ -14306,8 +14306,9 @@ if(b===0)r+=4
 return!c?r+3:r},
 fY(a){var s,r=1
 for(;;){s=30+(r-1)*15
-if(!(a>=s&&r<999))break
-a-=s;++r}return A.b([r,a],t.t)},
+if(!(a>=s&&r<100))break
+a-=s;++r}if(r>=100){if(a<s)s=a}else s=a
+return A.b([r,s],t.t)},
 a1H(a){var s,r,q
 for(s="\ub0e0\ub0e0 \uc0c8\uc2f9",r=0;r<7;++r){q=B.aXp[r]
 if(a>=A.l(q.h(0,"at")))s=A.i(q.h(0,"name"))}return A.k(s)},
