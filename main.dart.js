@@ -90924,7 +90924,7 @@ n=e?16*r:0
 c=m.a+n
 b.a6(a1,g,new A.c(c,s.k(0,q).b-44*r),d,f,b.p3)
 if(e)b.ps(a1,new A.c(c-b.p3.aG(g,0,-1,d).a/2-20*r,s.k(0,q).b-o),15*r,B.h)},
-aaV(){var s,r,q=this,p="v1.0.0+4 \xb7 2026-11-12 14:01 19a684e2",o=q.p2
+aaV(){var s,r,q=this,p="v1.0.0+4 \xb7 2026-11-12 14:40 931ee629",o=q.p2
 o===$&&A.a()
 o=o.aG(p,0,-1,20)
 s=q.bJ
@@ -96618,7 +96618,9 @@ a1.ae($.X2(),21).H(a6.gJ(),e)
 a2=a2?A.m("\uc9c0\uae08 \ubaa8\uc2b5"):A.m("\uc785\ub294 \uc911")
 a1.a6(a6,a2,e.a.k(0,e.b.B(0,2)).G(0,new A.c(0,1)),A.p(24*a4),B.h,a1.Y)}else if(r){a2=a2?A.m("\uae30\ubcf8"):A.m("\uac00\uc9c0\uace0 \uc788\uc5b4\uc694")
 a1.a6(a6,a2,new A.c(i,f),A.p(23*a4),A.d("#4d7a4a",a,a,a),a1.Y)}else if(!A.vn(k)){a2=A.qO(k)
-a1.ae(A.d(0.97,0.95,0.89,0.55),22).H(a6.gJ(),l)
+a3=a1.ae(A.d(0.97,0.95,0.89,0.55),22)
+a3.go="flat"
+a3.H(a6.gJ(),l)
 A.aE(a6,"lock",new A.c(q.k(0,m).a-26,q.b+28),44*a4,0,B.h)
 d=A.P("Lv %d",a2)
 c=a1.Y.aG(d,0,-1,28).a+74
