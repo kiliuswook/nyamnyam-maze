@@ -51910,7 +51910,7 @@ n=e?16*r:0
 c=m.a+n
 b.N(a1,g,new A.b(c,s.i(0,q).b-44*r),d,f,b.p2)
 if(e)b.js(a1,new A.b(c-b.p2.a8(g,0,-1,d).a/2-20*r,s.i(0,q).b-o),15*r,B.f)},
-OJ(){var s,r,q=this,p="v1.0.0+5 \xb7 2026-11-19 00:38 8dab0c42",o=q.p1
+OJ(){var s,r,q=this,p="v1.0.0+5 \xb7 2026-11-19 00:44 a344173e",o=q.p1
 o===$&&A.c()
 o=o.a8(p,0,-1,20)
 s=q.bU
@@ -56649,13 +56649,13 @@ e.sk(c.gk().D(0,3))
 c.a6(e)
 r=c.E=A.aM()
 r.rx=2
-r.sk(new A.b(1500,860))
+r.sk(new A.b(1500,900))
 c.E.p2=c.gk().P(0,c.E.gk()).p(0,2)
 r=c.E
 r.RG=r.gk().p(0,2)
 c.E.CW.H(c.gvg())
 c.a6(c.E)
-c.M7(A.n("\ud655\uc778"),$.a8z(),new A.b(360,104),new A.b(570,720)).m.H(new A.O7(c))
+c.M7(A.n("\ud655\uc778"),$.a8z(),new A.b(360,104),new A.b(570,762)).m.H(new A.O7(c))
 if(!c.aY)for(r=c.Z,q=r.length,l=0;l<r.length;r.length===q||(0,A.k)(r),++l){d=r[l]
 d.sfa(!0)
 p=d.Q
@@ -56740,7 +56740,7 @@ A1(a){return new A.b(90+a*460+200,400)},
 vh(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="puzzle_piece",a1="kind",a2=b.E
 a2===$&&A.c()
 s=b.dI(A.d("#fffaf0",a,a,a),40,A.d("#c9ae7e",a,a,a),5,14)
-r=A.H(0,0,1500,860)
+r=A.H(0,0,1500,900)
 s.v(a2.gA(),r)
 q=A.n("\uafb8\ubbf8\uae30 \ud37c\uc990")
 r=b.am
