@@ -13242,6 +13242,7 @@ s=t.z
 q=A.fq(n.b1,s,s)
 q.l(0,"gems",5)
 q.l(0,"up",0)
+q.V(0,"puzzle")
 p=a.aE+1<50?A.n("\ub2e4\uc74c \ucc55\ud130"):""
 a.K.i_()
 a.K.zd(A.a4J(a.aE),A.n(A.i(A.q3(a.a3,a.aE).h(0,"name"))),a.a2.W,q,p,[A.a([A.I(A.n("\uc2a4\ud14c\uc774\uc9c0 %d\uac1c \ubaa8\ub450 \ud1b5\uacfc!"),10),1],t.f)])
@@ -51916,7 +51917,7 @@ n=e?16*r:0
 c=m.a+n
 b.P(a1,g,new A.b(c,s.i(0,q).b-44*r),d,f,b.p2)
 if(e)b.js(a1,new A.b(c-b.p2.a6(g,0,-1,d).a/2-20*r,s.i(0,q).b-o),15*r,B.f)},
-OL(){var s,r,q=this,p="v1.0.0+6 \xb7 2026-11-19 01:03 85063475",o=q.p1
+OL(){var s,r,q=this,p="v1.0.0+6 \xb7 2026-11-19 01:08 f8026691",o=q.p1
 o===$&&A.c()
 o=o.a6(p,0,-1,20)
 s=q.bU
